@@ -1,5 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelioklv&card_width=500&show_icons=true&rank_icon=github&theme=solarized-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelioklv&card_width=500&show_icons=true&rank_icon=github&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelioklv&card_width=500&show_icons=true&rank_icon=github&theme=solarized-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aurelioklv&card_width=500&show_icons=true&rank_icon=github&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aurelioklv&card_width=336&theme=solarized-dark)](https://git.io/streak-stats)
 
 <picture>
