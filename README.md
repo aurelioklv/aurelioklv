@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,5 +44,5 @@ Linux                    3 hrs 46 mins       ███████████�
 ```
 
 
- Last Updated on 02/08/2023 17:14:20 UTC
+ Last Updated on 03/08/2023 17:14:15 UTC
 <!--END_SECTION:waka-->
