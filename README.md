@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
@@ -45,5 +45,5 @@ Windows                  4 hrs 28 mins       ███████████�
 ```
 
 
- Last Updated on 23/09/2023 17:13:29 UTC
+ Last Updated on 24/09/2023 17:13:51 UTC
 <!--END_SECTION:waka-->
