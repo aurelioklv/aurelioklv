@@ -9,9 +9,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **I'm an Early 🐤** 
 
@@ -45,5 +45,5 @@ Windows                  1 hr 36 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 12/10/2023 15:31:23 UTC
+ Last Updated on 12/10/2023 17:16:01 UTC
 <!--END_SECTION:waka-->
