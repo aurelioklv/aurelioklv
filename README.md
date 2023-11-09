@@ -9,9 +9,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **I'm an Early 🐤** 
 
@@ -40,9 +40,9 @@ Sunday                   106 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/11/2023 17:16:08 UTC
+ Last Updated on 09/11/2023 17:15:46 UTC
 <!--END_SECTION:waka-->
