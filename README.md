@@ -9,7 +9,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -40,10 +40,9 @@ Sunday                   111 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💻 Operating System: 
-Linux                    29 hrs 45 mins      █████████████████████████   99.72 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Linux                    24 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/11/2023 17:16:55 UTC
+ Last Updated on 30/11/2023 17:17:14 UTC
 <!--END_SECTION:waka-->
