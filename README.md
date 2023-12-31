@@ -9,9 +9,9 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,5 +44,5 @@ Linux                    28 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 31/12/2023 10:27:14 UTC
+ Last Updated on 31/12/2023 17:15:27 UTC
 <!--END_SECTION:waka-->
