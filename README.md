@@ -9,7 +9,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2019%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,9 +27,9 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💻 Operating System: 
-Linux                    7 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-04-01 17:18:58 UTC
+ Last Updated on 2024-04-02 17:18:14 UTC
 <!--END_SECTION:waka-->
