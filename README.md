@@ -9,24 +9,8 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2055%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                403 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌆 Daytime                557 commits         █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 Evening                555 commits         █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-945%20hrs%2011%20mins-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-```
-
-
- Last Updated on 2025-01-03 17:20:46 UTC
+ Last Updated on 2025-01-04 17:20:09 UTC
 <!--END_SECTION:waka-->
