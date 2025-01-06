@@ -24,7 +24,7 @@ jobs:
           SHOW_OS: "FALSE"
           SHOW_PROJECTS: "FALSE"
           SHOW_TIMEZONE: "TRUE"
-          SHOW_EDITORS: "FALSE"
+          SHOW_EDITORS: "TRUE"
           SHOW_LANGUAGE_PER_REPO: "FALSE"
           SHOW_SHORT_INFO: "FALSE"
           SHOW_LOC_CHART: "FALSE"
