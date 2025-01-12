@@ -9,7 +9,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,10 +27,10 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-WebStorm                 5 hrs 27 mins       █████████████████░░░░░░░░   68.01 % 
-IntelliJ IDEA            2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+WebStorm                 5 hrs 28 mins       ██████████████████████░░░   87.08 % 
+IntelliJ IDEA            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
 
- Last Updated on 2025-01-11 17:19:50 UTC
+ Last Updated on 2025-01-12 17:19:18 UTC
 <!--END_SECTION:waka-->
