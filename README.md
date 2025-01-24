@@ -9,7 +9,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2011%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,10 +27,10 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-Android Studio           1 hr 45 mins        ███████████████████░░░░░░   75.68 % 
-IntelliJ IDEA            33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+IntelliJ IDEA            1 hr 50 mins        █████████████░░░░░░░░░░░░   51.24 % 
+Android Studio           1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.76 % 
 ```
 
 
- Last Updated on 2025-01-23 21:47:27 UTC
+ Last Updated on 2025-01-24 17:21:21 UTC
 <!--END_SECTION:waka-->
