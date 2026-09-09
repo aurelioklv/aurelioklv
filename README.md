@@ -13,6 +13,31 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 2026-09-08 19:44:23 UTC
+```text
+🌞 Morning                392 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+🌆 Daytime                488 commits         █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                489 commits         █████████░░░░░░░░░░░░░░░░   34.51 % 
+🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+🔥 Editors: 
+GoLand                   2 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 2026-09-09 19:38:27 UTC
 <!--END_SECTION:waka-->
